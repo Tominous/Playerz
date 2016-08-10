@@ -1,0 +1,7 @@
+main: com.struckplayz.playerz.Playerz
+name: Playerz
+version: 1.0
+author: Struck713
+
+commands:
+    list:
